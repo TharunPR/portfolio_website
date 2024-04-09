@@ -1,2 +1,1 @@
-# Hello
-**I AM THARUN** aspiring electronic engineer
+# personal webpage
